@@ -2,3 +2,5 @@ _datasets/**
 /_datasets/
 /.idea/
 /.ipynb_checkpoints/
+*.csv
+/_models/_checkpoints/
