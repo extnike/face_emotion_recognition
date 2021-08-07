@@ -4,3 +4,4 @@ _datasets/**
 /.ipynb_checkpoints/
 *.csv
 /_models/_checkpoints/
+_models/_checkpoints/**
