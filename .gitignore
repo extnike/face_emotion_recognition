@@ -5,3 +5,6 @@ _datasets/**
 *.csv
 /_models/_checkpoints/
 _models/_checkpoints/**
+_models/__pycache__/
+va_submission.csv
+VA_submission.csv
