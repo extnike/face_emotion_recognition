@@ -76,7 +76,7 @@
 ### Распознавание эмоций в видео-файле
 Для распознавания эмоции в видеофайле необходимо использовать скрипт `video_fer.py`.
 Обязательным параметром запуска является путь к файлу, на котором мы ищем эмоции. Пример запуска - `python foto_fer.py ./test_photo/anger.jpg` В этом случае определяется, какая из 9 эмоций представлена в кадре.
-<p align="center"><img src="/img/emotion_from_video.jpg.jpg" width="300" alt="Emotion from video"></p>
+<p align="center"><img src="/img/emotion_from_video.jpg" width="300" alt="Emotion from video"></p>
 Дополнительным параметром является флаг `va`. Пример запуска - `python foto_fer.py ./test_photo/anger.jpg va` В этом случае модель классификации инициализируется из двух моделей, в кадре отображается название эмоции и ее численные значения.
 <p align="center"><img src="/img/va_from_video.jpg" width="300" alt="Emotion from video with Valence-Arousal values"></p>
 
